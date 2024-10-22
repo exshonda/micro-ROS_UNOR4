@@ -1,0 +1,9 @@
+geometry_msgs/Vector3 a
+geometry_msgs/Vector3 g
+geometry_msgs/Vector3 m
+uint16 ls1
+uint16 ls2
+uint16 ls3
+uint16 ls4
+uint16 ls5
+uint16 ls6
